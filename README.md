@@ -1,2 +1,2 @@
-# python_notebooks
+# Python Notebooks
 some python notebooks for documentation
